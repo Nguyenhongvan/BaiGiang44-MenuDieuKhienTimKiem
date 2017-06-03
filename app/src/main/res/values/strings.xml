@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaiGiang44-MenuDieuKhienTimKiem</string>
+    <string-array name="arrBaiHat">
+        <item>Trái tim bên lề</item>
+        <item>Tiểu thư cá tính</item>
+        <item>Gửi cho anh</item>
+        <item>Gửi anh xa nhớ</item>
+        <item>Dành cho em</item>
+        <item>Dường như ta đã</item>
+        <item>Don\'t forget me</item>
+        <item>Người ở lại</item>
+        <item>Người yêu cũ</item>
+    </string-array>
+</resources>
